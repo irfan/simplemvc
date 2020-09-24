@@ -1,0 +1,9 @@
+{
+	"environment": "development",
+	"modules":["database", "cache"],
+	"database": {
+		"db": "mysql",
+		"user": "root",
+		"password": ""
+	}
+}
